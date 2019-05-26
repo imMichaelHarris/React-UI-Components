@@ -9,10 +9,10 @@
     margin: 0 auto;
 
 }
-img {
+.lambda-img {
     width: 200px;
     height: 200px;
 }
 p {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }

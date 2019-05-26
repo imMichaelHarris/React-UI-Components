@@ -1,1 +1,13 @@
 /* All styles for your Card Components live here */
+.card-container {
+    width: 80%;
+    margin-left: auto;
+    padding: 10px;
+}
+.card-container img {
+    width: 100%;
+}
+a {
+    color: grey;
+    text-decoration: none;
+}
