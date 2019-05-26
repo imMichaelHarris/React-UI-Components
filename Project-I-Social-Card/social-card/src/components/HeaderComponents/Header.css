@@ -1,1 +1,18 @@
 /* All styles for your header Components live here */
+.header {
+    display: flex;
+}
+.tweet {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 0 auto;
+
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+p {
+    font-size: 1.5rem;
+}
