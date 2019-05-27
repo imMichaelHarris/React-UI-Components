@@ -7,6 +7,10 @@
 .card-container img {
     width: 100%;
 }
+.card-content{
+    width: 95%;
+    margin-left: auto;
+}
 a {
     color: grey;
     text-decoration: none;
