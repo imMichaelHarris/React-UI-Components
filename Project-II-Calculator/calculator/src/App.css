@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.calculator {
+    background: blue;
+    width: 600px;
+    height: 800px;
+    margin: 20px auto;
+}

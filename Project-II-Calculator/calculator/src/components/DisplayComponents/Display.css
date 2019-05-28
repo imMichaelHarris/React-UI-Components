@@ -1,0 +1,13 @@
+
+/*   Display and output styles */
+.display {
+    background: #444;
+    height: 20%;
+    font-size: 3rem;
+    color: #fff;
+    display: flex;
+    justify-content: flex-end;
+}
+.output {
+    padding: 20px;
+}
