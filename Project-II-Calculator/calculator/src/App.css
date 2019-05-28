@@ -5,7 +5,12 @@
 }
 .calculator {
     background: blue;
-    width: 600px;
-    height: 800px;
+    width: 500px;
+    height: 700px;
     margin: 20px auto;
+}
+.area {
+    display: flex;
+    height: 560px;
+    background: #000;
 }
