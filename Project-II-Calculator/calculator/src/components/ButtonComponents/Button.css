@@ -10,7 +10,7 @@ button{
     width: 25%;
 }
 .operator {
-    background: red;
+    background: firebrick;
     color: #fff;
     font-size: 5rem;
     height: 20%;
@@ -30,7 +30,7 @@ button{
     font-size: 3rem;
 
 }
-.numbers button.zero,
-.numbers button.clear {
+.numbers .action {
     width: 100%;
+    
 }

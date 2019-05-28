@@ -1,8 +1,6 @@
 import React from 'react';
 import './App.css';
-import Display from './components/DisplayComponents/Display';
-import Operations from './components/ButtonComponents/Operations';
-import NumberButtons from './components/ButtonComponents/NumberButtons';
+import CalculatorDisplay from './components/DisplayComponents/CalculatorDisplay';
 
 const App = () => {
   return (
@@ -20,13 +18,7 @@ const App = () => {
     //     </strong>
     //   </p>
     // </div>
-    <div className="calculator">
-        <Display />
-        <div className="area">
-          <Operations />
-          <NumberButtons />
-        </div>
-    </div>
+    <CalculatorDisplay />
   );
 };
 
