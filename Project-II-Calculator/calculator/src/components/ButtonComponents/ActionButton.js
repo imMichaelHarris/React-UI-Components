@@ -2,7 +2,7 @@ import React from 'react';
 import './Button.css';
 
 const ActionButton = (props) => {
-    return <button className="action">{props.action}</button>
+    return <button onClick={props.clearHandler}className={props.buttonStyle}>{props.action}</button>
 }
 
 export default ActionButton;

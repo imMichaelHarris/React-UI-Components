@@ -10,7 +10,6 @@ const Operations = () => {
             <Operator operator="&minus;"/> 
             <Operator operator="&#43;"/> 
             <Operator operator="&#61;"/> 
- 
         </div>
     )
 }
