@@ -1,0 +1,36 @@
+button{
+    border-style: none;
+    border: 1px solid lightgrey;
+}
+
+/*  Operations Styles   */
+.operations {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+.operator {
+    background: firebrick;
+    color: #fff;
+    font-size: 5rem;
+    height: 20%;
+}
+
+
+/*   Number Styles    */
+
+.numbers {
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.numbers button {
+    width: calc(100% / 3);
+    font-size: 3rem;
+
+}
+.numbers .action {
+    width: 100%;
+    
+}

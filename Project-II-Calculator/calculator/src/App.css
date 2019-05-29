@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.calculator {
+    background: blue;
+    width: 500px;
+    height: 700px;
+    margin: 20px auto;
+}
+.area {
+    display: flex;
+    height: 560px;
+    background: #000;
+}
